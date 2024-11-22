@@ -1,10 +1,10 @@
 {
-  "name": "Queen_Anju",
+  "name": "DINUX_MD",
   "version": "2.5",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "description": "A Simple WhatsApp bot created By King-Dinuka",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
+    "start": "pm2 start queen.js --deep-monitoring --attach --name DINUX_MD",
     "stop": "pm2 stop Queen_Anju",
     "restart": "pm2 restart Queen_Anju"
   },
